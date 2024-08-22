@@ -1,0 +1,242 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Leila's mother explained factors by using the number 14. Which of the following is a factor of 14?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "correct": 2,
+      "img": "./assests/images/1.jpg"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Her mother asked her to find the two factors of 31.",
+        "options": [
+            "0, 31",
+            "2, 15",
+            "31, 1",
+            "62, 31"
+        ],
+        "correct": 2,
+      "img": "./assests/images/2.jpg"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Leila’s mother explained that there is one number that is a factor of every number. Which number is it?",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "10"
+        ],
+        "correct": 1,
+      "img": "./assests/images/3.jpg"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Leila's mother asked her to complete the factor tree for the number 84. She started the factor tree but left out one branch. Can you help Leila figure out the missing number?",
+        "options": [
+            "14",
+            "21",
+            "7",
+            "8"
+        ],
+        "correct": 2,
+      "img": "./assests/images/4.jpg"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "While playing a game, Leila identified the factors of 21. Which of the following pairs are correct factors of 21?",
+        "options": [
+            "1 and 20",
+            "3 and 7",
+            "2 and 10",
+            "5 and 15"
+        ],
+        "correct": 1,
+      "img": "./assests/images/5.jpg"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Leilas’s mother asked her which of the following numbers is a common factor of 48 and 72.",
+        "options": [
+            "18",
+            "12",
+            "14",
+            "20"
+        ],
+        "correct": 1,
+      "img": "./assests/images/6.jpg"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "During their bus ride, Leila calculated the factors of 12. Which of the following lists is correct?",
+        "options": [
+            "1, 2, 3, 4, 6, 12",
+            "1, 2, 4, 6, 8, 12",
+            "1, 3, 4, 6, 8, 12",
+            "1, 2, 3, 5, 6, 12"
+        ],
+        "correct": 0,
+      "img": "./assests/images/7.jpg"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Leila and her mother decided to find the common factors of 4 and 16. What are the common factors?",
+        "options": [
+            "1 and 5",
+            "1 and 3",
+            "2 and 8",
+            "1 and 4"
+        ],
+        "correct": 3,
+      "img": "./assests/images/8.jpg"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Leila and her mother were on a bus ride, enjoying a conversation about numbers. Her mother then asked her, 'Leila, can you find which pair of numbers have a common factor of 8?'",
+        "options": [
+            "32 and 56",
+            "4 and 8",
+            "27 and 54",
+            "8 and 18"
+        ],
+        "correct": 0,
+      "img": "./assests/images/9.jpg"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Her mother challenged her with a puzzle: 'Leila, can you find the number that is a multiple of 4, falls between 6 and 15, and is also a factor of 16?'",
+        "options": [
+            "12",
+            "16",
+            "8",
+            "4"
+        ],
+        "correct": 2,
+      "img": "./assests/images/10.jpg"
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Leila's mother posed a question to her: 'What is the sum of the second common multiple and the first common multiple of 4 and 5?'",
+        "options": [
+            "60",
+            "40",
+            "0",
+            "20"
+        ],
+        "correct": 0,
+      "img": "./assests/images/11.jpg"
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Leila asked, 'Mom, what's the difference between the fifth multiple of 7 and the seventh multiple of 5?'",
+        "options": [
+            "35",
+            "70",
+            "0",
+            "60"
+        ],
+        "correct": 2,
+      "img": "./assests/images/12.jpg"
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Her mother gave her another puzzle: Which is the greatest among the following?",
+        "options": [
+            "The third multiple of 9.",
+            "The fifth multiple of 4.",
+            "The seventh multiple of 3.",
+            "The fourth multiple of 6."
+        ],
+        "correct": 0,
+      "img": "./assests/images/13.jpg"
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Leila asked her mother which two numbers do not have 11 as their greatest common factor.",
+        "options": [
+            "22 and 44",
+            "33 and 55",
+            "11 and 101",
+            "33 and 99"
+        ],
+        "correct": 2,
+      "img": "./assests/images/14.jpg"
+    },
+    {
+        "questionNo": "Q15",
+        "question": "While discussing factors on the bus ride, Leila's mother posed a puzzle: Which of the following statements is correct?",
+        "options": [
+            "(i) only",
+            "(ii) only",
+            "(i) and (iii) only",
+            "(i) and (iv) only"
+        ],
+        "correct": 1,
+      "img": "./assests/images/15.jpg"
+    },
+    {
+        "questionNo": "Q16",
+        "question": "Leila’s mother asked her what is the product of the first six multiples of 4.",
+        "options": [
+            "8×12×20×24",
+            "4×12×20×24",
+            "4×8×12×16×20×24",
+            "4×8×12×16×24"
+        ],
+        "correct": 2,
+      "img": "./assests/images/16.jpg"
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Leila wonders about another set of numbers: A given number, less than 20 is a multiple of 3. What is the number if 6 is not one of its factors?",
+        "options": [
+            "15",
+            "12",
+            "18",
+            "6"
+        ],
+        "correct": 0,
+      "img": "./assests/images/17.jpg"
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Leila observed the given multiples of 37:<br><br> From the given pattern, find the product of 37 and 27.",
+        "options": [
+            "999",
+            "The greatest three-digit number.",
+            "Both A or B",
+            "The smallest three-digit number"
+        ],
+        "correct": 2,
+      "img": "./assests/images/18.jpg"
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Leila’s mother observed the bus's timing intervals based on multiples of 4 and 8 minutes during her journey, she wondered which digit would occupy the hundreds place in the sum of the first five common multiples.",
+        "options": [
+            "2",
+            "0",
+            "4",
+            "1"
+        ],
+        "correct": 3,
+      "img": "./assests/images/19.jpg"
+    },
+    {
+        "questionNo": "Q20",
+        "question": "As Leila continued her journey, she noticed another interesting pattern in the timing of the bus stops. The bus seemed to stop at intervals that were common multiples of 5 and 10 minutes. Intrigued by this discovery, she wondered about the product of the first three common multiples of 5 and 10.<br><br> Which product would represent the combined timing of these multiples on Leila's bus journey?",
+        "options": [
+            "5000",
+            "3000",
+            "2000",
+            "6000"
+        ],
+        "correct": 3,
+      "img": "./assests/images/20.jpg"
+    }
+]
